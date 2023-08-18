@@ -3,7 +3,7 @@ PATH
   specs:
     acts_as_bookable (0.1.4)
       activerecord (>= 3.2)
-      ice_cube_chosko (~> 0.2.0)
+      ice_cube (~> 0.16)
 
 GEM
   remote: https://rubygems.org/
@@ -120,7 +120,7 @@ GEM
       rspec (>= 2.99.0, < 4.0)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
-    ice_cube_chosko (0.2.0)
+    ice_cube (0.16.4)
     json (2.6.3)
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
